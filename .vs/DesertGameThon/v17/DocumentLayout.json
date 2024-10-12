@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B999D0D-0FA0-4555-8CDE-EF265959A95B}|DesertGameThon\\DesertGameThon.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon\\progrma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B999D0D-0FA0-4555-8CDE-EF265959A95B}|DesertGameThon\\DesertGameThon.csproj|solutionrelative:desertgamethon\\progrma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desesrtgamethon.data\\algorithm\\movetogold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|solutionrelative:desesrtgamethon.data\\algorithm\\movetogold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desesrtgamethon.data\\algorithm\\findgoldanddiraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|solutionrelative:desesrtgamethon.data\\algorithm\\findgoldanddiraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\transportpostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\transportpostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desesrtgamethon.data\\datahelper\\counthypotenuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|solutionrelative:desesrtgamethon.data\\datahelper\\counthypotenuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desesrtgamethon.data\\datahelper\\countmaxspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03CCAE3-CE93-4B61-8DAD-BF3D70D5DB93}|DesesrtGameThon.Data\\DesertGameThon.Data.csproj|solutionrelative:desesrtgamethon.data\\datahelper\\countmaxspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entitespost\\velocitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entitespost\\velocitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\velocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entitespost\\transportpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entitespost\\transportpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entitespost\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entitespost\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\gamestateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\gamestateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\bounty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\bounty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\mapsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\mapsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|c:\\users\\thebr\\source\\repos\\desertgamethon\\desertgamethon.model\\entites\\anomaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B12F18-ED3C-4CBD-B055-FA8BC594C54F}|DesertGameThon.Model\\DesertGameThon.Model.csproj|solutionrelative:desertgamethon.model\\entites\\anomaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountMaxSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\DataHelper\\CountMaxSpeed.cs",
+              "RelativeDocumentMoniker": "DesesrtGameThon.Data\\DataHelper\\CountMaxSpeed.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\DataHelper\\CountMaxSpeed.cs",
+              "RelativeToolTip": "DesesrtGameThon.Data\\DataHelper\\CountMaxSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:40:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveToGold.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\Algorithm\\MoveToGold.cs",
+              "RelativeDocumentMoniker": "DesesrtGameThon.Data\\Algorithm\\MoveToGold.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\Algorithm\\MoveToGold.cs",
+              "RelativeToolTip": "DesesrtGameThon.Data\\Algorithm\\MoveToGold.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:08:21.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountHypotenuse.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\DataHelper\\CountHypotenuse.cs",
+              "RelativeDocumentMoniker": "DesesrtGameThon.Data\\DataHelper\\CountHypotenuse.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\DataHelper\\CountHypotenuse.cs",
+              "RelativeToolTip": "DesesrtGameThon.Data\\DataHelper\\CountHypotenuse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:38:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindGoldAndDiraction.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\Algorithm\\FindGoldAndDiraction.cs",
+              "RelativeDocumentMoniker": "DesesrtGameThon.Data\\Algorithm\\FindGoldAndDiraction.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesesrtGameThon.Data\\Algorithm\\FindGoldAndDiraction.cs",
+              "RelativeToolTip": "DesesrtGameThon.Data\\Algorithm\\FindGoldAndDiraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:26:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progrma.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon\\Progrma.cs",
+              "RelativeDocumentMoniker": "DesertGameThon\\Progrma.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon\\Progrma.cs",
+              "RelativeToolTip": "DesertGameThon\\Progrma.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:17:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransportPost.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\TransportPost.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\EntitesPost\\TransportPost.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\TransportPost.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\EntitesPost\\TransportPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:47:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coordinates.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\Coordinates.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\EntitesPost\\Coordinates.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\Coordinates.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\EntitesPost\\Coordinates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:46:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VelocityPost.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\VelocityPost.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\EntitesPost\\VelocityPost.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\EntitesPost\\VelocityPost.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\EntitesPost\\VelocityPost.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:45:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransportPostData.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\TransportPostData.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\TransportPostData.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\TransportPostData.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\TransportPostData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:43:13.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameStateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\GameStateResponse.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\GameStateResponse.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\GameStateResponse.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\GameStateResponse.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:30:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bounty.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Bounty.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\Bounty.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Bounty.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\Bounty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:20:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapSize.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\MapSize.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\MapSize.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\MapSize.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\MapSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:29:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Transport.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\Transport.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Transport.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\Transport.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:23:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Enemy.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\Enemy.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Enemy.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:22:37.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Velocity.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Velocity.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\Velocity.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Velocity.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\Velocity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:19:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Anomaly.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Anomaly.cs",
+              "RelativeDocumentMoniker": "DesertGameThon.Model\\Entites\\Anomaly.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\DesertGameThon\\DesertGameThon.Model\\Entites\\Anomaly.cs",
+              "RelativeToolTip": "DesertGameThon.Model\\Entites\\Anomaly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:17:51.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
