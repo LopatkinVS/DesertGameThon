@@ -10,6 +10,12 @@ namespace DesertGameThon.Data.Algorithm
         private readonly FindGoldAndDiraction _findGoldAndDiraction;
         private readonly CountMaxSpeed _countMaxSpeed;
 
+        public MoveToGold(FindGoldAndDiraction findGoldAndDiraction, CountMaxSpeed countMaxSpeed)
+        {
+            _findGoldAndDiraction = findGoldAndDiraction;
+            _countMaxSpeed = countMaxSpeed;
+        }
+
         public VelocityPost MoveTo(Transport transport, GameStateResponse gameStateResponse)
         {
              var coordinate = _findGoldAndDiraction.FindNearestGold(gameStateResponse, transport);

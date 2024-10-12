@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesertGameThon.Data/1.0.0": {
+        "dependencies": {
+          "DesertGameThon.Model": "1.0.0"
+        },
+        "runtime": {
+          "DesertGameThon.Data.dll": {}
+        }
+      },
+      "DesertGameThon.Model/1.0.0": {
+        "runtime": {
+          "DesertGameThon.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesertGameThon.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesertGameThon.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

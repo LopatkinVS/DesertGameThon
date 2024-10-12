@@ -2,9 +2,9 @@
 {
     public class Anomaly
     {
-        public int EffectiveRadius { get; set; }
-        public int Id { get; set; }
-        public int Radius { get; set; }
+        public double EffectiveRadius { get; set; }
+        public string Id { get; set; }
+        public double Radius { get; set; }
         public int Strenght { get; set; }
         public Velocity Velocity { get; set; }
         public int X { get; set; }

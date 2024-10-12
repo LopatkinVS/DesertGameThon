@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesertGameThon.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5b182315b9fbeebf0ff21b15dafba24a5dfdec")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesertGameThon.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesertGameThon.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

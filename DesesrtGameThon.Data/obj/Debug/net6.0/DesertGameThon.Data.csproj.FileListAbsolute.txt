@@ -1,0 +1,16 @@
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\bin\Debug\net6.0\DesertGameThon.Data.deps.json
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\bin\Debug\net6.0\DesertGameThon.Data.dll
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\bin\Debug\net6.0\DesertGameThon.Data.pdb
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\bin\Debug\net6.0\DesertGameThon.Model.dll
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\bin\Debug\net6.0\DesertGameThon.Model.pdb
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.csproj.AssemblyReference.cache
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.AssemblyInfoInputs.cache
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.AssemblyInfo.cs
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.csproj.CoreCompileInputs.cache
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.sourcelink.json
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGa.0313B046.Up2Date
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.dll
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\refint\DesertGameThon.Data.dll
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\DesertGameThon.Data.pdb
+C:\Users\thebr\source\repos\DesertGameThon\DesesrtGameThon.Data\obj\Debug\net6.0\ref\DesertGameThon.Data.dll
